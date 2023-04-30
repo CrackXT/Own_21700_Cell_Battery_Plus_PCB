@@ -1,0 +1,2 @@
+# Own_21700_Cell_Battery_x_PCB
+Platzhalter
