@@ -1,6 +1,6 @@
 # Own_21700_Cell_Battery_Plus_PCB
 
-PCB files for a 21700 cell mount on a separate board with protection circuit and fuel gauge.
+PCB files for a 21700 cell mount on a separate board with protection circuit and battery fuel gauge.
 
 # Description
 
