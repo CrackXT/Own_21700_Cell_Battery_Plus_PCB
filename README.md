@@ -33,4 +33,4 @@ Own design and layout.
 
 # Version - Build
 
-v1.0 - xx.04.2023
+v1.0 - 23.04.2023
