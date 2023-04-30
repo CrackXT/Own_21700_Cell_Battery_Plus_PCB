@@ -1,4 +1,4 @@
-# Own_21700_Cell_Battery_x_PCB
+# Own_21700_Cell_Battery_Plus_PCB
 
 PCB files for a 21700 cell mount on a separate board
 
