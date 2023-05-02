@@ -20,10 +20,10 @@ part list for Use
 # capacitor
 2x 0,1µF 0805 https://www.reichelt.de/dk/de/smd-vielschichtkondensator-g0805-1-0-f-25v-x7r-g0805-1-0-25-p89730.html?&trstct=pol_4&nbc=1
 
-# IC
+# ic
 1x MAX17048 TDFN https://www.digikey.de/de/products/detail/analog-devices-inc-maxim-integrated/MAX17048G-T10/3758921
 
 1x S-82M1AAA-I6T1U7 SNT-6A https://www.digikey.de/de/products/detail/ablic-inc/S-82M1AAA-I6T1U7/14664146?s=N4IgTCBcDaIM4FoAcYCyBGAgthBLAbAC7oCuA7CALoC%2BQA
 
-# MOSFET
+# mosfet
 1x ECH8693R-TL-W SOT28 https://www.digikey.de/de/products/detail/onsemi/ECH8693R-TL-W/5257549?s=N4IgTCBcDaIKYGMAWAOAbATgMwCcQF0BfIA
