@@ -10,6 +10,10 @@ This is an external battery cell board that allows you to mount the appropriate 
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
+# Serie
+
+- .pro
+
 # Layout
 
 Top
