@@ -16,15 +16,16 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 
 # Layout
 
-Top
+Top<br>
 ![21700_Plus_Top_v1 1](https://user-images.githubusercontent.com/88975406/235356405-975eb6ff-1216-4709-b691-3659f5cb22b7.png)
 
-Bottom
+Bottom<br>
 ![21700_Plus_Bottom_v1 1](https://user-images.githubusercontent.com/88975406/235356414-b62ad4de-d14d-4cee-8cec-068ba52d23f0.png)
 
-Routing/Dimensions(inch)
+Routing/Dimensions(inch)<br>
 ![21700_Plus_v1 1](https://user-images.githubusercontent.com/88975406/235356426-f4db2ae7-ce9e-4df7-b42e-cf980c9107cb.png)
 
+Schematic<br>
 Schematic as .pdf at the top of the page.
 
 # License
