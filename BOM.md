@@ -11,7 +11,7 @@ part list for Use
 
 # resistor
 1x 330Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-330-ohm-125-mw-0-1--spr-0805-330-p123233.html?&trstct=pol_2&nbc=1<br>
-1x 470ohm 0805 https://www.reichelt.de/smd-widerstand-0805-470-ohm-125-mw-0-1--spr-0805-470-p123238.html?&trstct=pol_3&nbc=1<br>
+1x 470Ohm 0805 https://www.reichelt.de/smd-widerstand-0805-470-ohm-125-mw-0-1--spr-0805-470-p123238.html?&trstct=pol_3&nbc=1<br>
 2x 10kOhm 0805 https://www.reichelt.de/smd-widerstand-0805-10-kohm-0-1-tk25-125-mw-spr-0805-10-0k-p123305.html?&trstct=pol_0&nbc=1<br>
 
 # capacitor
